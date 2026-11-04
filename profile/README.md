@@ -11,6 +11,9 @@ und Deutschland.
 
 | Repository | Inhalt |
 |---|---|
-| [legal](https://github.com/Affects-not-only-cyber-security/legal) | veröffentlichte Rechtstexte mit Versionsverlauf |
+| [legal](https://github.com/Affects-not-only-cyber-security/legal) | AGB, Impressum und Datenschutzerklärung mit Versionsverlauf; jede Fassung als Tag und PDF |
+
+Verbindlich sind die Texte auf der Website. Das Repository legal belegt, welche Fassung wann
+galt.
 
 ANOCS steht für *Affects not only cyber security*.
